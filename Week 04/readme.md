@@ -34,6 +34,6 @@
 
 ## Tailwind Project
 
-## Make Clone of Visual Studio Code
+## Make Clone of Visual Studio Code Website
 
 ## [Reference Link](https://code.visualstudio.com/)
