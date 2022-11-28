@@ -1,5 +1,7 @@
 ## Full Stack JavaScript 2.0
 
+# Saturday
+
 ## Project 1
 
 ### Output
@@ -27,3 +29,11 @@
 ![Project 1](./Project%203/Output.png)
 
 - Create HTML and CSS again.
+
+# Sunday
+
+## Tailwind Project
+
+## Make Clone of Visual Studio Code
+
+## [Reference Link](https://code.visualstudio.com/)
